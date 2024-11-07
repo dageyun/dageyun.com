@@ -51,4 +51,4 @@
 | 年付套餐 A | 优惠码：**mcuE8uOq**，每月 **300G** 流量 按订单日重置，按照 “使用文档” 教程使用，500Mbps 端口速率，解锁 20+条国际专线 ，在线客服+工单+Telegram 服务 | ¥ 199/年 |
 | 年付套餐 B | 优惠码：**mcuE8uOq**，每月 **500G** 流量 按订单日重置，按照 “使用文档” 教程使用，500Mbps 端口速率，解锁 20+条国际专线 ，在线客服+工单+Telegram 服务 | ¥ 299/年 |
 
-> 大哥云 - 基于全新的V2ray网络协议：访问[官网](https://github.dgywzc.com//#/register?code=JJhGQ63X) dageyun.com 。
+> 大哥云 - 基于全新的V2ray网络协议：访问官网 [dageyun.com](https://github.dgywzc.com//#/register?code=JJhGQ63X)  。
