@@ -3,7 +3,7 @@
 
 大哥云，极速稳定的加速器，加速上外网，自由切换节点，1080P 无压力，防封稳定。
 
-> 大哥云 - 基于全新的trojan网络协议：访问[官网dageyun.com](https://github.dgywzc.com//#/register?code=JJhGQ63X)
+> 大哥云 - 基于全新的trojan网络协议：访问官网[dageyun.com](https://github.dgywzc.com//#/register?code=JJhGQ63X)
 
 大哥云加速访问全世界网络 突破阻碍，基于全新的 V2ray 网络协议强力“穿墙”，随时随地畅快体验外网。轻松进行社交、学术交流，视频影音，跨境电商。
 
