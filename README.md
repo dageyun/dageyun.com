@@ -13,6 +13,7 @@
 
 迄今为止，大哥云拥有：国际节点 100+，国家地区 25+，满意用户 6500+。
 ## 大哥云测速图片
+![Image text](https://github.com/dageyun/dageyun.com/blob/main/MiaoKo-%20.%20.net-7841-speed.png)
 
 ## 为你量身定制的服务
 
